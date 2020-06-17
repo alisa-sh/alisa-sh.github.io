@@ -1,0 +1,14 @@
+body {
+    color: black;
+    background: white;
+}
+div.note {
+    font-family: 'Monaco', monospace;
+    font-size: 13;
+    white-space: pre-line;
+    margin-left: auto;
+    margin-right: auto;
+    width: 43em;
+    margin-top: 11%;
+    margin-bottom: 11%;
+}
